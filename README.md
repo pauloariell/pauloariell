@@ -1,20 +1,16 @@
 ### Hey roll, let's go 🤘
 
-<img align="right" width="40%" src="https://styles.redditmedia.com/t5_9lhtf/styles/profileIcon_k1b8oxnm8k551.jpg?width=256&height=256&crop=256:256,smart&s=96565f0e835709eddabd6ea0add1d2aaa3c7926d" alt="Darth Vader" />
+My name is Paulo Ariel Chaves, from <img width="32" src="https://raw.githubusercontent.com/pauloariell/pauloariell/main/brazil.png" alt="Brazil" /> <img width="32" src="https://raw.githubusercontent.com/pauloariell/pauloariell/main/coxinha.png"/>
 
-My name is Paulo Ariel Chaves, from <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+I'm Software Developer Analyst, that has been working as a FullStack Developer with .Net Core and Angular.
 
-I'm Software Developer Analyst, that has been working as a FullStack Developer with .Net Core and Angular 8.
-
-But I always try to play / learn other technologies. I am currently learning React / React Native at Rocketseat.
-And learning English, Japanese and car mechanics, but learning mechanics only when I have time and tools to dismantle my car's engine.
-
-### "Seek wisdom" - E.T. Bilu (Brazilian MEME)
+But I always try to play / learn other technologies. I am currently learning python.
+And learning English and car mechanics, but learning mechanics only when I have time and tools to dismantle my car's engine.
 
 ### 七転八起人生は此れからだ。
 
 - 📍 From SP living in São Paulo-SP
-- 💻 FullStack Developer at [Qintess](https://qintess.com/), allocated at [Liberty Seguros](https://www.libertyseguros.com.br/Pages/Home.aspx)
+- 💻 .Net Core and FullStack Developer at at [Yelum Insurance](https://www.libertyseguros.com.br/institucional/libertyseguros-agora-e-yelum.aspx)
 
 Reach me out 👇🏼
 
